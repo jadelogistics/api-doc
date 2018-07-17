@@ -23,4 +23,10 @@
 
 - Allow to set the visibility on events. [More details](https://github.com/jadelogistics/api-doc/wiki/API-Cargo-Events#visibility)
 
+### Next
+- Set propagation property on events.
+[More details](https://github.com/jadelogistics/api-doc/wiki/API-Cargo-Events#propagation)
+
+- Add new type of relation between 2 profiles: association. "Simple" link between two profiles.
+
 ## Apps
