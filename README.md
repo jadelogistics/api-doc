@@ -23,6 +23,8 @@
 
 - Allow to set the visibility on events. [More details](https://github.com/jadelogistics/api-doc/wiki/API-Cargo-Events#visibility)
 
+- Audit tracking: allow to retrieve the history of API calls for an account or organization.
+
 ### Next
 - Set propagation property on events.
 [More details](https://github.com/jadelogistics/api-doc/wiki/API-Cargo-Events#propagation)
